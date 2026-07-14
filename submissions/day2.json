@@ -1,0 +1,19 @@
+{
+  "day": 2,
+  "student_name": "Akshith Rajesh",
+  "github": "projectakshith",
+  "lab1_scenario": "A",
+  "lab1_prompt": "You are an Expert customer support specialist\n\nDraft a professional reply to a customer's complaint\n\nContext: Customer has reported battery issues three times within the same month which is still under warrant\n\nConstraints: Maximum 150 words\nMust NOT promise or mention refunds\nMust acknowledge frustration and prior complaints\nMust offer a clear next step\n\nTone: Professional, Calm, solution oriented\n\nOutput format: Single structured email response, Paragraph format, Include greeting and closing line",
+  "lab1_output_met_constraints": true,
+  "lab1_extra_scenarios_done": 2,
+  "lab2_problem": "Galaxy Buds distribution centre — shipment/hold/restock",
+  "lab2_naive_output_summary": "4,299 Galaxy Buds units are available for sale by the end of the day.",
+  "lab2_cot_prompt": "go step by step before giving the final answer.\n\nA Samsung distribution centre starts the day with 4,200 Galaxy Buds units.\n\n1. Subtract the morning shipment of 850 units.\n2. Calculate 6% of the remaining stock and place those units on quality hold.\n3. Determine how many remaining units are available for sale after the hold.\n4. Add the afternoon restock of 1,150 units.\n5. Show each calculation clearly and then state the final number of units available for sale.",
+  "lab2_cot_output_summary": "Chain of thought was more trustworthy since it exposed every calculation making it easier to find errors",
+  "better_approach": "cot",
+  "stretch_done": true,
+  "stretch_react_prompt": "Solve the inventory problem step by step. If any information is missing or unclear, ask me for it before continuing. Do not make assumptions. Otherwise, perform the calculations and provide the final answer.",
+  "tasks_completed": 6,
+  "tasks_total": 6,
+  "submitted_at": "2026-07-14T09:52:29.927Z"
+}
