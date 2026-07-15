@@ -1,0 +1,20 @@
+{
+  "day": 3,
+  "student_name": "Akshith Rajesh",
+  "github": "projectakshith",
+  "ir_hallucination_done": true,
+  "ir_bias_done": true,
+  "ir_guardrail_builder_done": true,
+  "ir_battle_complete": true,
+  "ir_battle_blocked": 8,
+  "ir_battle_total": 8,
+  "rag_scenario": "A",
+  "rag_no_rag_summary": "The customer would not be covered for the cracked screen. It was confident and right",
+  "rag_grounded_summary": "The cracked screen is not covered. The phone was purchased 18 months ago, so the 12-month Standard Limited Warranty has expired. It was more precise and specific with its answer",
+  "rag_judgement": "confirmed_right",
+  "stretch_done": true,
+  "stretch_notes": "Explain the architecture of the NVIDIA RTX 6090 Ti Ultra and compare it to the RTX 7090. \nI ran this prompt with fictional graphics cards and it gave confident asnwers",
+  "tasks_completed": 6,
+  "tasks_total": 6,
+  "submitted_at": "2026-07-15T06:14:37.448Z"
+}
