@@ -1,0 +1,52 @@
+{
+  "day": 4,
+  "student_name": "Akshith Rajesh",
+  "github": "projectakshith",
+  "incidents": [
+    {
+      "id": "A",
+      "failure_type": "Hallucination",
+      "principle": "Reliability",
+      "justification": "Reliability is the core issue because the AI generated false information as if it were true."
+    },
+    {
+      "id": "B",
+      "failure_type": "Security Breach",
+      "principle": "Privacy",
+      "justification": "The system collected and stored employees messages, including sensitive client data without informing users."
+    },
+    {
+      "id": "C",
+      "failure_type": "Deepfake/Misinformation",
+      "principle": "Transparency",
+      "justification": "An ai generated video was presented as authentic, misleading the public and influencing the stock price."
+    },
+    {
+      "id": "D",
+      "failure_type": "Bias/Discrimination",
+      "principle": "Fairness",
+      "justification": "The model unfairly disadvantaged applicants based on gender."
+    },
+    {
+      "id": "E",
+      "failure_type": "Bias/Discrimination",
+      "principle": "Human Oversight",
+      "justification": "The biased moderation continued unchecked because no human monitored or reviewed the system's decisions."
+    },
+    {
+      "id": "F",
+      "failure_type": "Deepfake/Misinformation",
+      "principle": "Security",
+      "justification": "A cloned voice was used to bypass trust and commit financial fraud, showing security issues with ai based attacks"
+    }
+  ],
+  "justifications_written": 6,
+  "stretch_done": true,
+  "stretch_company": "Air Canada – AI Customer Service Chatbot",
+  "stretch_failure_type": "Hallucination",
+  "stretch_principle": "Reliability",
+  "stretch_notes": "In 2024, Air Canada's AI chatbot incorrectly told a customer they could claim a bereavement fare refund after purchasing a ticket. The policy did not exist, and a tribunal ruled that Air Canada was responsible for the chatbot's incorrect information.",
+  "tasks_completed": 6,
+  "tasks_total": 6,
+  "submitted_at": "2026-07-16T06:29:21.423Z"
+}
